@@ -1,0 +1,19 @@
+#/home/nathaniel/CaptivateDesignCenter_1_20_00_01/CaptivateDesignCenterWorkspace/NewLab1/.plotProps/MSP430FR2533IRHB_TimeEstPlot.props Plotter Data
+#Tue Jun 14 09:43:33 CDT 2016
+xmin=0.000000
+ymax=2.000000
+titleFont=helvetica-BOLD-24
+Signal.alias.--Sensors\ Total--=0.410ms
+xmax=42.900000
+--Sensors\ Total--=on
+prof=on
+labelFont=helvetica-BOLD-12
+xlabel=Time
+graphtype=PtsCon
+persistence=2000
+ymin=0.000000
+legendFont=helvetica-BOLD-14
+ylabel=Channel Data
+Signal.alias.--Scan\ Period--=33.000ms
+Signal.alias.prof=0.410ms
+--Scan\ Period--=on

@@ -1,0 +1,17 @@
+#/home/nathaniel/CaptivateDesignCenter_1_20_00_01/CaptivateDesignCenterWorkspace/NewLab1/.plotProps/prof_OscilloscopePlot.props Plotter Data
+#Mon Jun 13 16:45:15 CDT 2016
+xmin=0.000000
+ymax=10.000000
+titleFont=helvetica-BOLD-24
+xrangetype=true
+xmax=10.000000
+labelFont=helvetica-BOLD-12
+xlabel=Time
+vert_data_grid=false
+graphtype=PtsCon
+yrangetype=true
+persistence=2000
+ymin=0.000000
+legendFont=helvetica-BOLD-14
+ylabel=Channel Data
+horiz_data_grid=true
